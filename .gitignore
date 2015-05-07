@@ -3,7 +3,7 @@ private
 
 # Big data files
 download/modzs.gctx
-
+data/siginfo/siginfo.json.gz
 
 # Created by https://www.gitignore.io
 
