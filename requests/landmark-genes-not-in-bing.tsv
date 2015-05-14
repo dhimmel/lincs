@@ -1,0 +1,29 @@
+pr_id	pr_gene_id	pr_gene_symbol	pr_gene_title	is_lm	is_l1000	is_bing
+214221_at	7840	ALMS1	Alstrom syndrome 1	True	True	False
+219069_at	54851	ANKRD49	ankyrin repeat domain 49	True	True	False
+201236_s_at	7832	BTG2	BTG family, member 2	True	True	False
+201743_at	929	CD14	CD14 molecule	True	True	False
+206398_s_at	930	CD19	CD19 molecule	True	True	False
+221223_x_at	1154	CISH	cytokine inducible SH2-containing protein	True	True	False
+213110_s_at	1287	COL4A5	collagen, type IV, alpha 5	True	True	False
+221887_s_at	25861	DFNB31	deafness, autosomal recessive 31	True	True	False
+205031_at	1949	EFNB3	ephrin-B3	True	True	False
+203806_s_at	2175	FANCA	Fanconi anemia, complementation group A	True	True	False
+203562_at	9638	FEZ1	fasciculation and elongation protein zeta 1 (zygin I)	True	True	False
+221245_s_at	7855	FZD5	frizzled family receptor 5	True	True	False
+205919_at	3046	HBE1	hemoglobin, epsilon 1	True	True	False
+210582_s_at	3985	LIMK2	LIM domain kinase 2	True	True	False
+205079_s_at	8777	MPDZ	multiple PDZ domain protein	True	True	False
+204742_s_at	23047	PDS5B	PDS5, regulator of cohesion maintenance, homolog B (S. cerevisiae)	True	True	False
+207749_s_at	5523	PPP2R3A	protein phosphatase 2, regulatory subunit B'', alpha	True	True	False
+218948_at	55278	QRSL1	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	True	True	False
+202362_at	5906	RAP1A	RAP1A, member of RAS oncogene family	True	True	False
+211605_s_at	5914	RARA	retinoic acid receptor, alpha	True	True	False
+219382_at	29946	SERTAD3	SERTA domain containing 3	True	True	False
+209307_at	23075	SWAP70	SWAP switching B-cell complex 70kDa subunit	True	True	False
+204158_s_at	10312	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	True	True	False
+203241_at	7405	UVRAG	UV radiation resistance associated gene	True	True	False
+205667_at	7486	WRN	Werner syndrome, RecQ helicase-like	True	True	False
+210695_s_at	51741	WWOX	WW domain containing oxidoreductase	True	True	False
+203026_at	9925	ZBTB5	zinc finger and BTB domain containing 5	True	True	False
+218916_at	79724	ZNF768	zinc finger protein 768	True	True	False
