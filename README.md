@@ -1,4 +1,4 @@
-# Transcriptional signatures of perturbation using LICNS L1000
+# Transcriptional signatures of perturbation from LINCS L1000
 
 Python analysis of the [LINCS L1000](http://www.lincscloud.org/) data.
 
