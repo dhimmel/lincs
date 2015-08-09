@@ -1,5 +1,7 @@
 # Transcriptional signatures of perturbation from LINCS L1000
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.27229.svg)](http://dx.doi.org/10.5281/zenodo.27229)
+
 Python analysis of the [LINCS L1000](http://www.lincscloud.org/) data.
 
 The repository consists of python notebooks which are executed in the following order:
