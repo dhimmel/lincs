@@ -10,7 +10,7 @@ The repository consists of python notebooks which are executed in the following 
 2. [`database.ipynb`](database.ipynb) creates a SQLite database containing the metadata retrieved from the API. Data cleaning occurs here.
 3. [`unichem.ipynb`](unichem.ipynb) maps compounds to external databases and adds the mapping to the database.
 4. [`chemical-similarity.ipynb`](chemical-similarity.ipynb) computes chemical similarities between compounds and adds these similarities to the database.
-5. [`consensi.ipynb`](consensi.ipynb) computes concensus signatures for each perturbagen. The following concensus files are created:
+5. [`consensi.ipynb`](consensi.ipynb) computes consensus signatures for each perturbagen. The following consensus files are created:
   + [`consensi-pert_id.tsv.gz`](consensi/consensi-pert_id.tsv.gz) with consensus signatures for each L1000 pert_id
   + [`consensi-drugbank.tsv.gz`](consensi/consensi-drugbank.tsv.gz) with consensus signatures for each mapped drugbank compound 
   + [`consensi-knockdown.tsv.gz`](consensi/consensi-knockdown.tsv.gz) with consensus signatures for each gene knockdown
