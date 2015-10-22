@@ -15,3 +15,5 @@ The repository consists of python notebooks which are executed in the following 
   + [`consensi-drugbank.tsv.gz`](consensi/consensi-drugbank.tsv.gz) with consensus signatures for each mapped drugbank compound 
   + [`consensi-knockdown.tsv.gz`](consensi/consensi-knockdown.tsv.gz) with consensus signatures for each gene knockdown
   + [`consensi-overexpression.tsv.gz`](consensi/consensi-overexpression.tsv.gz) with consensus signatures for each gene over-expression
+
+**Note:** This is not an official LINCS L1000 repositority. Users are warned that our modifications may have introduced errors or removed signal that was present the original data.
