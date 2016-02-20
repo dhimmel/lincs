@@ -11,9 +11,13 @@ The repository consists of python notebooks which are executed in the following 
 3. [`unichem.ipynb`](unichem.ipynb) maps compounds to external databases and adds the mapping to the database.
 4. [`chemical-similarity.ipynb`](chemical-similarity.ipynb) computes chemical similarities between compounds and adds these similarities to the database.
 5. [`consensi.ipynb`](consensi.ipynb) computes consensus signatures for each perturbagen. The following consensus files are created:
-  + [`consensi-pert_id.tsv.gz`](consensi/consensi-pert_id.tsv.gz) with consensus signatures for each L1000 pert_id
-  + [`consensi-drugbank.tsv.gz`](consensi/consensi-drugbank.tsv.gz) with consensus signatures for each mapped drugbank compound 
-  + [`consensi-knockdown.tsv.gz`](consensi/consensi-knockdown.tsv.gz) with consensus signatures for each gene knockdown
-  + [`consensi-overexpression.tsv.gz`](consensi/consensi-overexpression.tsv.gz) with consensus signatures for each gene over-expression
+  + [`consensi-pert_id.tsv.gz`](data/consensi/consensi-pert_id.tsv.gz) with consensus signatures for each L1000 pert_id
+  + [`consensi-drugbank.tsv.gz`](data/consensi/consensi-drugbank.tsv.gz) with consensus signatures for each mapped drugbank compound
+  + [`consensi-knockdown.tsv.gz`](data/consensi/consensi-knockdown.tsv.gz) with consensus signatures for each gene knockdown
+  + [`consensi-overexpression.tsv.gz`](data/consensi/consensi-overexpression.tsv.gz) with consensus signatures for each gene over-expression
+6. [`binarize-consensi.ipynb`](binarize-consensi.ipynb) converts consensus z-scores into binary up/down-regulation values. The following files are created:
+  + [`consensi-drugbank-binary.tsv.gz`](data/consensi/binary/consensi-drugbank-binary.tsv.gz)
+  + [`consensi-knockdown-binary.tsv.gz`](data/consensi/binary/consensi-knockdown-binary.tsv.gz)
+  + [`consensi-overexpression-binary.tsv.gz`](data/consensi/binary/consensi-overexpression-binary.tsv.gz)
 
 **Note:** This is not an official LINCS L1000 repositority. Users are warned that our modifications may have introduced errors or removed signal that was present the original data.
