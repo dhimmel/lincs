@@ -1,6 +1,6 @@
 # Transcriptional signatures of perturbation from LINCS L1000
 
-[![DOI: 10.5281/zenodo.47223](https://zenodo.org/badge/doi/10.5281/zenodo.47223.svg)](https://doi.org/10.5281/zenodo.47223)
+[![DOI](https://zenodo.org/badge/14475/dhimmel/lincs.svg)](https://zenodo.org/badge/latestdoi/14475/dhimmel/lincs)
 
 Python analysis of the [LINCS L1000](http://www.lincscloud.org/) data.
 
@@ -24,6 +24,10 @@ The repository consists of python notebooks which are executed in the following 
 See [this comment](https://doi.org/10.15363/thinklab.d43#7 "Thinklab · Concensus signatures version 2.0") for more information on steps 5 & 6.
 
 **Note:** This is not an official LINCS L1000 repository. Users are warned that our modifications may have introduced errors or removed signal that was present the original data.
+
+## Inputs
+
+This repository depends on `modzs.gctx` — a legacy probe × signature matrix of differential expression z-scores. Due to large file size (42.5 GB) this file is not uploaded to GitHub. To recreate this analysis rather than just use the results, users should retrieve [`modzs.gctx` from figshare](https://doi.org/10.6084/m9.figshare.3759129 "modzs.gctx: a legacy LINCS L1000 dataset of differential expression signatures · figshare") and place it in the [`download`](download) directory.
 
 ## License
 
