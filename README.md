@@ -29,6 +29,14 @@ See [this comment](https://doi.org/10.15363/thinklab.d43#7 "Thinklab · Concensu
 
 This repository depends on `modzs.gctx` — a legacy probe × signature matrix of differential expression z-scores. Due to large file size (42.5 GB) this file is not uploaded to GitHub. To recreate this analysis rather than just use the results, users should retrieve [`modzs.gctx` from figshare](https://doi.org/10.6084/m9.figshare.3759129 "modzs.gctx: a legacy LINCS L1000 dataset of differential expression signatures · figshare") and place it in the [`download`](download) directory.
 
+## Environment
+
+Create the conda environment for this repository using:
+
+```sh
+conda env create --file environment.yml
+```
+
 ## License
 
 All original content in this repository is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons · Public Domain Dedication"). LINCS data and derivatives are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — please refer to the [LINCS data policy](http://www.lincsproject.org/data/data-release-policy/) and attribute [this repository](https://github.com/dhimmel/lincs) and [LINCS L1000](http://www.lincscloud.org/l1000/).
