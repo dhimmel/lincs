@@ -34,24 +34,24 @@ This repository depends on `modzs.gctx` — a legacy probe × signature matrix
 See the [Transcriptional signatures of perturbation from LINCS L1000](https://git.dhimmel.com/rephetio-manuscript/#transcriptional-signatures-of-perturbation-from-lincs-l1000) section of the Rephetio manuscript for the final description of this work.
 Citations related to this repository are below:
 
-1. **Systematic integration of biomedical knowledge prioritizes drugs for repurposing**
-Daniel Scott Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini
-*eLife* (2017-09-22) <https://doi.org/cdfk>
+1. **Systematic integration of biomedical knowledge prioritizes drugs for repurposing**  
+Daniel Scott Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini  
+*eLife* (2017-09-22) <https://doi.org/cdfk>  
 DOI: [10.7554/elife.26726](https://doi.org/10.7554/elife.26726) · PMID: [28936969](https://www.ncbi.nlm.nih.gov/pubmed/28936969) · PMCID: [PMC5640425](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5640425)
 
-2. **Consensus signatures for LINCS L1000 perturbations**
-Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini
-*Figshare* (2016-03-08) <https://doi.org/f3mqvs>
+2. **Consensus signatures for LINCS L1000 perturbations**  
+Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini  
+*Figshare* (2016-03-08) <https://doi.org/f3mqvs>  
 DOI: [10.6084/m9.figshare.3085426.v1](https://doi.org/10.6084/m9.figshare.3085426.v1)
 
-3. **dhimmel/lincs v2.0: Refined Consensus Signatures From Lincs L1000**
-Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini
-*Zenodo* (2016-03-08) <https://doi.org/f3mqvr>
+3. **dhimmel/lincs v2.0: Refined Consensus Signatures From Lincs L1000**  
+Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini  
+*Zenodo* (2016-03-08) <https://doi.org/f3mqvr>  
 DOI: [10.5281/zenodo.47223](https://doi.org/10.5281/zenodo.47223)
 
-4. **Computing consensus transcriptional profiles for LINCS L1000 perturbations**
-Daniel Himmelstein, Caty Chung
-*ThinkLab* (2015-03-26) <https://doi.org/f3mqwc>
+4. **Computing consensus transcriptional profiles for LINCS L1000 perturbations**  
+Daniel Himmelstein, Caty Chung  
+*ThinkLab* (2015-03-26) <https://doi.org/f3mqwc>  
 DOI: [10.15363/thinklab.d43](https://doi.org/10.15363/thinklab.d43)
 
 ## Environment
